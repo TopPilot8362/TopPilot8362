@@ -6,7 +6,7 @@
 ## Current Work
 
 ### Atech, the future of FASA on VATSIM
-![Atech Repo](https://github.com/TopPilot8362/Atech)
+![Atech](https://github.com/TopPilot8362/Atech)
 ### Personal Vice CPDLC integration
 
 ## My coding experience
