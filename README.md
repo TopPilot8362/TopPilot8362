@@ -5,6 +5,12 @@
 
 ## Current Work
 
+### Atech, the future of FASA on VATSIM
+
+### Personal Vice CPDLC integration
+
+## My coding experience
+
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | C++, Python |
