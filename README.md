@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![GitHub Stats](https://personal-readme-stats-one.vercel.app/api?username=TopPilot8362&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ## What I am working on?
 
 Personal sector files for all of VATSSA.
